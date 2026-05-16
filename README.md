@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi, I'm Isidro 👋
 
-<!--
-**El-Isi/El-Isi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer** with 6 years of experience in Fintech, specialized in 
+backend automation systems powered by LLMs and AI agents.
 
-Here are some ideas to get you started:
+#### What I build
+- 🤖 AI agents and multi-step workflows (Anthropic, OpenAI, n8n, LangGraph)
+- 🔌 Custom MCP servers exposing business tools to LLMs
+- 🔍 RAG pipelines and natural-language interfaces over operational data
+- ⚙️ Event-driven backend services on Node.js, NestJS, and Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech I work with
+**AI:** Anthropic Claude · OpenAI · MCP · LangGraph · n8n · RAG  
+**Backend:** Node.js · NestJS · FastAPI · TypeScript · Python  
+**Data:** PostgreSQL · MongoDB · pgvector  
+**Infra:** AWS · GCP · Docker · Kafka
+
+#### Currently
+Building AI-powered backend automation at **Konfio**.  
+Open to remote roles in AI Engineering.
+
+📫 isidro.f.gonzalez@gmail.com · [LinkedIn](https://www.linkedin.com/in/isidrogonzalez/)
